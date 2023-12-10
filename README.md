@@ -7,7 +7,7 @@ Welcome to the Customer Insights and Growth Project repository! This project is 
 
 ## Results
 
-- **Resutls:** Each cluster has been labeled to facilitate easy reference and communication. These labels serve as shorthand for the distinct customer personas, aiding in the implementation of targeted strategies.
+Each cluster has been labeled to facilitate easy reference and communication. These labels serve as shorthand for the distinct customer personas, aiding in the implementation of targeted strategies.
  <img width="955" alt="Screenshot 2023-12-10 at 5 14 13 PM" src="https://github.com/RutviShah1107/AleAnalytica/assets/86033480/8964580f-524a-4004-ad33-0d8818220b24">
 
 ## Key Features
