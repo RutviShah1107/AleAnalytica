@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to the Customer Insights and Growth Project repository! This project is a strategic initiative for a thriving billion-dollar enterprise in beer brewing industry, to harness valuable insights from customer survey responses. Through meticulous preprocessing, feature selection, and clustering techniques, we've crafted personas for distinct customer segments. This not only aids in understanding customer behavior but also facilitates targeted marketing strategies. The repository also includes a visually appealing dashboard showcasing the key findings and actionable recommendations derived from our analysis.
+[Find the PPT here](https://github.com/RutviShah1107/AleAnalytica/blob/7fc209a87ab75b51bcce5696b3a6b37074ef3710/Capstone%20Final%20Presentation%20(2).pptx)
 
 ## Key Features
 
