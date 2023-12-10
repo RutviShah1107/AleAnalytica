@@ -30,6 +30,7 @@ Welcome to the Customer Insights and Growth Project repository! This project is 
 
 
 - **Recommendations:** To drive positive growth, we've derived actionable recommendations based on the insights gained from the personas and clusters. These recommendations serve as strategic guidelines for refining marketing approaches, product development, and overall customer engagement.
+Research Paper - Results and Recommendation (2).pdf
 
 
 Thank you
