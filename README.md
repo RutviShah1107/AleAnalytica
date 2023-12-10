@@ -5,11 +5,12 @@
 Welcome to the Customer Insights and Growth Project repository! This project is a strategic initiative for a thriving billion-dollar enterprise in beer brewing industry, to harness valuable insights from customer survey responses. Through meticulous preprocessing, feature selection, and clustering techniques, we've crafted personas for distinct customer segments. This not only aids in understanding customer behavior but also facilitates targeted marketing strategies. The repository also includes a visually appealing dashboard showcasing the key findings and actionable recommendations derived from our analysis.
 [Find the PPT here](https://github.com/RutviShah1107/AleAnalytica/blob/7fc209a87ab75b51bcce5696b3a6b37074ef3710/Capstone%20Final%20Presentation%20(2).pptx)
 
-## Key Features
+## Results
 
 - **Resutls:** Each cluster has been labeled to facilitate easy reference and communication. These labels serve as shorthand for the distinct customer personas, aiding in the implementation of targeted strategies.
  <img width="955" alt="Screenshot 2023-12-10 at 5 14 13 PM" src="https://github.com/RutviShah1107/AleAnalytica/assets/86033480/8964580f-524a-4004-ad33-0d8818220b24">
 
+## Key Features
 - **Data Preprocessing:** Raw customer survey data has been preprocessed to ensure accuracy and reliability in subsequent analyses. This involves handling missing values, standardizing formats, and cleaning the dataset for optimal results.
 
 - **Clustering:** Utilizing advanced clustering algorithms, we segmented the customer base into distinct groups. These clusters form the foundation for our customer personas, enabling a nuanced understanding of diverse customer needs, preferences, and behaviors.
@@ -34,8 +35,7 @@ Welcome to the Customer Insights and Growth Project repository! This project is 
 [Results and Recommendations](https://github.com/RutviShah1107/AleAnalytica/blob/46d622bdc440c1d4ab12596a2517f405d1507951/Research%20Paper%20-%20Results%20and%20Recommendation%20(2).pdf)
 
 
-
-Thank you
+Thank you.
 
 ## Steps to run and install the Project:
 
