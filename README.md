@@ -30,7 +30,7 @@ Welcome to the Customer Insights and Growth Project repository! This project is 
 
 
 - **Recommendations:** To drive positive growth, we've derived actionable recommendations based on the insights gained from the personas and clusters. These recommendations serve as strategic guidelines for refining marketing approaches, product development, and overall customer engagement.
-https://github.com/RutviShah1107/AleAnalytica/blob/46d622bdc440c1d4ab12596a2517f405d1507951/Research%20Paper%20-%20Results%20and%20Recommendation%20(2).pdf
+[Results and Recommendations](https://github.com/RutviShah1107/AleAnalytica/blob/46d622bdc440c1d4ab12596a2517f405d1507951/Research%20Paper%20-%20Results%20and%20Recommendation%20(2).pdf)
 
 
 
